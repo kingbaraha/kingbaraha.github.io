@@ -1,0 +1,43 @@
+header{position: relative;
+  width:1200px;
+height:300px;
+ margin-left:auto;
+ margin-right:auto;
+  display: flex;
+  align-items: center;
+}
+img{width:1200px;
+height:300px;}
+
+.elso {
+  position: absolute;
+  margin-left: 500px;
+  margin-top: 70px;
+  font-size: 30px;}
+.masodik {
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 110px;
+  font-size: 30px;}
+ 
+
+p{display:block;
+text-align:center;}
+ul{width:200px;
+margin-left:auto;
+margin-right:auto;}
+
+.idezet{
+  width:500px;
+  height:150px;
+  margin-left:auto;
+  margin-right:auto;
+  background:black;
+  color:white;
+  display:flex;
+  justify-content:center;
+  align-items:flex-end;
+}
+.quote{
+  font-size:30px;
+}
