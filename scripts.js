@@ -1,1 +1,2 @@
-$('h1').text('My new title');
+
+$("h1").css("border-color", "red");
